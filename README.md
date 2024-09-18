@@ -1,3 +1,4 @@
+# [Video]([mailto:ai.paths23@gmail.com](https://www.youtube.com/watch?v=-dpfUCMnTPw))
 # Base-Gemini-TS: Chatbot de WhatsApp con Integración a la API de Gemini de Google
 
 Este proyecto proporciona la base para un chatbot de WhatsApp escrito en TypeScript. Utiliza la librería `@builderbot/bot` para la integración con WhatsApp y vincula la API de Gemini de Google para mejorar las funcionalidades del chatbot.
